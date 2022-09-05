@@ -4,8 +4,7 @@ Rencana Project Web Programming
 - Web randomizer
 - Web E-Commerce
   *Toko Online
-   ^Makanan
+   ^Elektronik
   *Sewa Barang
    ^Mobil
    ^Alat Camping
-- Web Sewa Lapangan
